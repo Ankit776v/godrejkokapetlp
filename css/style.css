@@ -3366,3 +3366,8 @@ div#exampleModal .modal-dialog {
     max-width: 500px;
 }
 }
+@media screen and (max-width : 767px){
+    .row>*{
+        width: 100%;
+    }
+}
